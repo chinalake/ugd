@@ -1,0 +1,32 @@
+body {
+  background-image: url(../img/websitebackground.gif);
+  text-align:center;
+}
+nav li {
+  display: inline-block;
+  margin: 1em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+
+
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+a:hover {
+  color: blueviolet;
+}
